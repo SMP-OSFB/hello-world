@@ -1,4 +1,4 @@
 # hello-world
 just doing the tutorial
 
-"Bring" bringt's!
+"brings!" bringt's!
